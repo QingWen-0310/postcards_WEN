@@ -1,0 +1,38 @@
+---
+title: "Qing (Chelsea) Wen"
+image: "qw_photo.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/qing-wen-756a26236//"
+  - label: Instagram
+    url: "https://www.instagram.com/qingwen0308/"
+  - label: GitHub
+    url: "https://github.com/QingWen-0310"
+  - label: Email
+    url: "qingwen0308@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I, as a recent graduate from the University of Toronto, am an international student from China. I have been in Canada for about 8 years and finished high-school and post-secondary education in Ottawa and Toronto respectively. Being apart from my family each year gave me a huge opportunity for my personal development as I learned how to look after myself independently while taking good care of my school work. Throughout the time I stayed in Canada, I am deeply moved by the niceties people have shown me. I love the stunning inclusiveness Toronto has (but never the weather). Feeling comfortable studying and living in Toronto, together with a continuing interest in working with data and mining for their underlying insights, I decided to pursue a master's degree at Rotman Commerce, where I will be studying management analytics. Hopefully, I will utilize these skills to settle myself for a job in business analytics. Currently, I have lots of experience using R, and some experience with Python and SQL, and I have many experiences working in a group tackling course projects and RA work.
+
+Setting aside studying, I am also really into oil painting, exercising, video editing, and *watching* volleyball games (Big fan of the Chinese Female Volleyball Team!).  
+
+
+## Education
+
+**University of Toronto, School of Graduate Studies** | Toronto, ON
+
+Master of Management Analytics | August 2022 - June 2023
+
+**University of Toronto** | Toronto, ON
+
+Honours Bachelor of Science, Applied Statistics Specialist | September 2018 - June 2022
+
+## Experience
+
+**Department of Statistical Sciences, University of Toronto** | Research Assistant | April 2022
+
+**Johnson & Johnson (Shanghai) Medical Device Company** | Marketing Intern | May 2019 - August 2019
